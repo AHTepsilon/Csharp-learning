@@ -1,0 +1,12 @@
+C:\Users\AHT\Desktop\All Things C#\Test1\bin\Debug\Test1.exe.config
+C:\Users\AHT\Desktop\All Things C#\Test1\bin\Debug\Test1.exe
+C:\Users\AHT\Desktop\All Things C#\Test1\bin\Debug\Test1.pdb
+C:\Users\AHT\Desktop\All Things C#\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Test1\obj\Debug\Test1.exe
+C:\Users\AHT\Desktop\All Things C#\Test1\obj\Debug\Test1.pdb
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\bin\Debug\Test1.exe.config
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\bin\Debug\Test1.exe
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\bin\Debug\Test1.pdb
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\obj\Debug\Test1.exe
+C:\Users\AHT\Desktop\All Things C#\16,5Test1\obj\Debug\Test1.pdb

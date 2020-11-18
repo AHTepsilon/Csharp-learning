@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\bin\Debug\Hello and Name.exe.config
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\bin\Debug\Hello and Name.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\bin\Debug\Hello and Name.pdb
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\obj\Debug\Hello and Name.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\obj\Debug\Hello and Name.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Hello and Name\obj\Debug\Hello and Name.pdb

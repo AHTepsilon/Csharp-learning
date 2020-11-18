@@ -1,0 +1,6 @@
+C:\Users\AHT\source\repos\Program16\bin\Debug\Program16.exe.config
+C:\Users\AHT\source\repos\Program16\bin\Debug\Program16.exe
+C:\Users\AHT\source\repos\Program16\bin\Debug\Program16.pdb
+C:\Users\AHT\source\repos\Program16\obj\Debug\Program16.csprojAssemblyReference.cache
+C:\Users\AHT\source\repos\Program16\obj\Debug\Program16.exe
+C:\Users\AHT\source\repos\Program16\obj\Debug\Program16.pdb

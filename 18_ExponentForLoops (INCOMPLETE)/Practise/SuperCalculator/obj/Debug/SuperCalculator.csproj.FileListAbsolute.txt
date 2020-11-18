@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\bin\Debug\SuperCalculator.exe.config
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\bin\Debug\SuperCalculator.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\bin\Debug\SuperCalculator.pdb
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\obj\Debug\SuperCalculator.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\obj\Debug\SuperCalculator.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\SuperCalculator\obj\Debug\SuperCalculator.pdb

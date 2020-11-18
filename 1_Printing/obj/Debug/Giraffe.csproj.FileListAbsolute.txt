@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Giraffe\bin\Debug\Giraffe.exe.config
+C:\Users\AHT\Desktop\Giraffe\bin\Debug\Giraffe.exe
+C:\Users\AHT\Desktop\Giraffe\bin\Debug\Giraffe.pdb
+C:\Users\AHT\Desktop\Giraffe\obj\Debug\Giraffe.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Giraffe\obj\Debug\Giraffe.exe
+C:\Users\AHT\Desktop\Giraffe\obj\Debug\Giraffe.pdb

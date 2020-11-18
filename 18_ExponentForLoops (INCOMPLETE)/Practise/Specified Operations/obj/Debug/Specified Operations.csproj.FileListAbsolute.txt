@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\bin\Debug\Specified Operations.exe.config
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\bin\Debug\Specified Operations.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\bin\Debug\Specified Operations.pdb
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\obj\Debug\Specified Operations.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\obj\Debug\Specified Operations.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Specified Operations\obj\Debug\Specified Operations.pdb

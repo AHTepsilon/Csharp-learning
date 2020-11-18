@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\bin\Debug\Fields.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\bin\Debug\Fields.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\bin\Debug\Fields.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\obj\Debug\Fields.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\obj\Debug\Fields.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\28_Fields\Fields\obj\Debug\Fields.pdb

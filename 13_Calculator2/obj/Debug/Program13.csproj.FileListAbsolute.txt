@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Program13\bin\Debug\Program13.exe.config
+C:\Users\AHT\Desktop\All Things C#\Program13\bin\Debug\Program13.exe
+C:\Users\AHT\Desktop\All Things C#\Program13\bin\Debug\Program13.pdb
+C:\Users\AHT\Desktop\All Things C#\Program13\obj\Debug\Program13.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Program13\obj\Debug\Program13.exe
+C:\Users\AHT\Desktop\All Things C#\Program13\obj\Debug\Program13.pdb

@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\bin\Debug\Basic_Concepts.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\bin\Debug\Basic_Concepts.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\bin\Debug\Basic_Concepts.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\obj\Debug\Basic_Concepts.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\obj\Debug\Basic_Concepts.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\Basic_Concepts\obj\Debug\Basic_Concepts.pdb

@@ -1,0 +1,5 @@
+C:\Users\AHT\Desktop\All Things C#\Practise\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.exe.config
+C:\Users\AHT\Desktop\All Things C#\Practise\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.pdb
+C:\Users\AHT\Desktop\All Things C#\Practise\Sum of Two Numbers\obj\Debug\Sum of Two Numbers.exe
+C:\Users\AHT\Desktop\All Things C#\Practise\Sum of Two Numbers\obj\Debug\Sum of Two Numbers.pdb

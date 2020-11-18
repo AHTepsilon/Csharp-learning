@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Program27\obj\Debug\Program27.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Program27\bin\Debug\Program27.exe.config
+C:\Users\AHT\Desktop\All Things C#\Program27\bin\Debug\Program27.exe
+C:\Users\AHT\Desktop\All Things C#\Program27\bin\Debug\Program27.pdb
+C:\Users\AHT\Desktop\All Things C#\Program27\obj\Debug\Program27.exe
+C:\Users\AHT\Desktop\All Things C#\Program27\obj\Debug\Program27.pdb

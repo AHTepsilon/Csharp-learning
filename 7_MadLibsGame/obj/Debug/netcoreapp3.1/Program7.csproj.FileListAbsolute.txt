@@ -1,0 +1,11 @@
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.exe
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.deps.json
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.json
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.dev.json
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.dll
+C:\Users\AHT\Desktop\All Things C#\Program7\bin\Debug\netcoreapp3.1\Program7.pdb
+C:\Users\AHT\Desktop\All Things C#\Program7\obj\Debug\netcoreapp3.1\Program7.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfoInputs.cache
+C:\Users\AHT\Desktop\All Things C#\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfo.cs
+C:\Users\AHT\Desktop\All Things C#\Program7\obj\Debug\netcoreapp3.1\Program7.dll
+C:\Users\AHT\Desktop\All Things C#\Program7\obj\Debug\netcoreapp3.1\Program7.pdb

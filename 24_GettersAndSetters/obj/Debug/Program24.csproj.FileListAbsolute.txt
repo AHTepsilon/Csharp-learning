@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Program24\bin\Debug\Program24.exe.config
+C:\Users\AHT\Desktop\All Things C#\Program24\bin\Debug\Program24.exe
+C:\Users\AHT\Desktop\All Things C#\Program24\bin\Debug\Program24.pdb
+C:\Users\AHT\Desktop\All Things C#\Program24\obj\Debug\Program24.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Program24\obj\Debug\Program24.exe
+C:\Users\AHT\Desktop\All Things C#\Program24\obj\Debug\Program24.pdb

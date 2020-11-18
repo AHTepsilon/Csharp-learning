@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\All Things C#\Program20\bin\Debug\Program20.exe.config
+C:\Users\AHT\Desktop\All Things C#\Program20\bin\Debug\Program20.exe
+C:\Users\AHT\Desktop\All Things C#\Program20\bin\Debug\Program20.pdb
+C:\Users\AHT\Desktop\All Things C#\Program20\obj\Debug\Program20.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\All Things C#\Program20\obj\Debug\Program20.exe
+C:\Users\AHT\Desktop\All Things C#\Program20\obj\Debug\Program20.pdb
