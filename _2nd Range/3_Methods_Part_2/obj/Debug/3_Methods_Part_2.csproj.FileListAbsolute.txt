@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\bin\Debug\3_Methods_Part_2.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\bin\Debug\3_Methods_Part_2.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\bin\Debug\3_Methods_Part_2.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\obj\Debug\3_Methods_Part_2.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\obj\Debug\3_Methods_Part_2.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\3_Methods_Part_2\obj\Debug\3_Methods_Part_2.pdb
