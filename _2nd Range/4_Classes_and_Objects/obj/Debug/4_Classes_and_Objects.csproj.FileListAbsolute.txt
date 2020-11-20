@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\bin\Debug\4_Classes_and_Objects.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\bin\Debug\4_Classes_and_Objects.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\bin\Debug\4_Classes_and_Objects.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\obj\Debug\4_Classes_and_Objects.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\obj\Debug\4_Classes_and_Objects.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\4_Classes_and_Objects\obj\Debug\4_Classes_and_Objects.pdb
