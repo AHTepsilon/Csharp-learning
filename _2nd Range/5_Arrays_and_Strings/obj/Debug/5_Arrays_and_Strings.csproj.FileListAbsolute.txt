@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\bin\Debug\5_Arrays_and_Strings.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\bin\Debug\5_Arrays_and_Strings.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\bin\Debug\5_Arrays_and_Strings.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\obj\Debug\5_Arrays_and_Strings.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\obj\Debug\5_Arrays_and_Strings.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\5_Arrays_and_Strings\obj\Debug\5_Arrays_and_Strings.pdb
