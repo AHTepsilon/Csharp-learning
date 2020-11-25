@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\bin\Debug\6_MoreAboutClasses.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\bin\Debug\6_MoreAboutClasses.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\bin\Debug\6_MoreAboutClasses.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\obj\Debug\6_MoreAboutClasses.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\obj\Debug\6_MoreAboutClasses.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\6_MoreAboutClasses\obj\Debug\6_MoreAboutClasses.pdb
