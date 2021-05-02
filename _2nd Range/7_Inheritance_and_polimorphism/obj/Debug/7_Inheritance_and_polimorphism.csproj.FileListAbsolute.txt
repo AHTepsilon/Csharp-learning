@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\bin\Debug\7_Inheritance_and_polimorphism.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\bin\Debug\7_Inheritance_and_polimorphism.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\bin\Debug\7_Inheritance_and_polimorphism.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\obj\Debug\7_Inheritance_and_polimorphism.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\obj\Debug\7_Inheritance_and_polimorphism.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\7_Inheritance_and_polimorphism\obj\Debug\7_Inheritance_and_polimorphism.pdb
