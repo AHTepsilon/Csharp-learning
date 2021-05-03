@@ -1,0 +1,6 @@
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\AHT\Desktop\Programming\All Things C#\_2nd Range\8_Structures_Enum_Exceptions_Archives\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
